@@ -51,4 +51,4 @@ defaults:
       category: Times
       author: Sun Wei
 
-permalink: none
+# permalink: none
