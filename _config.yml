@@ -52,4 +52,5 @@ defaults:
       author: Sun Wei
 
 # permalink: none
-show_excerpt: true
+
+# excerpt_separator: "\r\n"
