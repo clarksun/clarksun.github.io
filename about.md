@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Times: 孩子妈妈给孩子写的日记
+程序员爸爸记录儿女日常的地方
