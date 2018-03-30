@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sunwei
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://realsunwei.org
+  * I am sunwei (https://keybase.io/sunwei) on keybase.
+  * I have a public key with fingerprint F950 1F84 6804 11EC 6E3E  96EC 4EAA 26A7 9973 6081
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e5ec9985b97d5bc17a927c207d64455774b47359602aee77b74c8138f02790090a",
+      "fingerprint": "f9501f84680411ec6e3e96ec4eaa26a799736081",
+      "host": "keybase.io",
+      "key_id": "4eaa26a799736081",
+      "kid": "010138de63eec43ba86003c0991f8b92e308a8db765626d59808e95e9e5a7b8306590a",
+      "uid": "c10d3a82f8d106f032826398e4d00a19",
+      "username": "sunwei"
+    },
+    "service": {
+      "hostname": "realsunwei.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1522403241,
+  "expire_in": 157680000,
+  "prev": "8fb3fd7afc3a06621f761789a6ccaa9270a3137c7708daadb0436a668d835f8d",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJtUFRVGN5FQV1FsrESSqVLQ4Urnft9z041fLgykkJYI+lgy7n3noUL
+tAt3l69sAaEZmGoUihnECOjDYWVtwoFx6Ed8KomEYTNNjNXwFRgQhAWTH4Hdi/qv
+8+fMed/ned7nfc97MXCNwWRMaA5vqnWlHjcOdJ/KNRzpWHf2GCE65ULCcozIxKsX
+zpKxy23LVGTCQgCSApjFEoQCK0JeZkWJ5BGkeIkCvMwxDMvyPCMyPM1CDlAIY54X
+eUYSSFqwA4qHAECACDNhVxxpWM1WFYdbk7VDFpB2geEEwJAkljhMY8hhicEIURzi
+IeRpDgikRkx3unSGZk5ELhypOLWY9rCt2vsf/EPfQHMgY47GmiotIoEDgJYAhFpZ
+EVKYBgISZJHnWI7iZBYKQMCQxRCziBcFGnDsfd+5q3ISCWQaCZRdkEnA2QFNCRRH
+QwEzMgCIhDrQhVUHegtraFeuIx8rhMdMaLE8RcL6WPU+HuRVjLLuYyKdaprGzVad
+bqfkzNJy6W53tsuic92F2To4H4u2BzI2UXHI2hw1Rh5WXYrTQVhIDSm5FV2XZCmK
+0awxpJnABdmKim2KjmB5bcza0evgPE1SsIu0XeaRXaIR4DiKtPMcyQsQcZKE9M8F
+iCZpXuJ5IMgIySJgaA5xnCALNKuNgNAby3E4NW1G84nS9J6VNAdy56qY8PR0p6w1
+GE2GAH8/fcEMpg2PPFy76uNB95KHkr6/E7xv5cLRshTrs8v9/PrFgFcmzjc2etv3
+zm/N8G1O/LZtY0n1PSaV3natJ9odnLy3OHxdxIz7D//Y3Snz/ZM5MWFKi3/DcN3d
+krEfrxz6IfTDUWtk2Pbn258qh8YbrzXElhL5N2v8njw7Tkz532oad9WTAX/NKFX1
+6cbBlZ/aKmPjW+N8ce13bUcSrGWnpj9L6Ow4z8Eutu/Nb8aujsR7Wkc3ng5v6k+0
+vrwL7fRVJwqDvsDLEUnK5YI7asj6hWT77OH31wS2te5shq3VJ+MzttaeawytMr3U
+Wbohfpy4PtZSUPjzpsC66ScuyV8UGVpyei/2DEZJC4t1y1XDsHfhxbgvA84k7uh8
+7mBY4W1jTHFJxRWXOf/RhpsRlw76Guq9kUVvl75zPfLz4bLy09/JvfTfQV/1WCub
+p8W2V1MmvBl+fntmDwQfSC4qhl2/GSaWBubKy97Yoh7dV9m59mlgxt7xcU/Q3I65
+Dt8zIVFJhloi/7FbZxydUzUnojYH1A/97vl3f+zEobzJij2/7JQ/Obd4tWLYF5Qw
+YtptGYp5L2QpZWR6sGvW9OfrS1/PrKRNbUt9YUuQ7AmR6dCPHu9byYmu8Jv/R3QG
+E8vv3ggxZ+a0116ziCfA7dZRHBa4MDC8SemyXvh1vvXwXNvHpWr5Bye7938aNtkX
+Pxat7vJuX6nx1kz9B2B/wKk=
+=0jE/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sunwei
+
+==================================================================
