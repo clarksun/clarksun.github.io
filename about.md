@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-程序员爸爸记录儿女日常的地方
+等你们俩长大了看看这些我感觉也挺好的
